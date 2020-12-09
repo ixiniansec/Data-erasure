@@ -50,7 +50,7 @@ plan3: dd (recommend)
 dd if=/dev/zero of=/dev/sda bs=2MB oflag=nonblock
 ```
 
-plan3: wipe(slow)
+plan4: wipe(slow)
 
 ```
 sudo yum install wipe
